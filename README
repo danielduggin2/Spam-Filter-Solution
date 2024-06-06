@@ -1,0 +1,28 @@
+# Spam Filter Project
+
+Regular expressions, often shortened to "regex" or "regexp", are patterns that help programmers match, search, and replace text. Regular expressions are powerful but can be difficult to understand because they use so many special characters.
+
+In this spam filter project, you'll learn about capture groups, positive lookaheads, negative lookaheads, and other techniques to match any text you want.
+
+## Features
+
+- **Capture Groups**: Learn how to use capture groups to extract specific parts of a text.
+- **Positive Lookaheads**: Understand positive lookaheads to assert that a certain substring follows another substring.
+- **Negative Lookaheads**: Use negative lookaheads to ensure that a specific substring is not present.
+- **Text Matching**: Techniques to match and filter text efficiently.
+
+## Getting Started
+
+To get started with this project, you'll need a basic understanding of regular expressions and some programming experience.
+
+### Prerequisites
+
+- Basic understanding of regular expressions.
+- Programming experience in a language that supports regex (e.g., Python, JavaScript, etc.).
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/spam-filter-project.git
+   ```
